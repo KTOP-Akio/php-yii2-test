@@ -64,7 +64,7 @@ class WebhookController extends Controller
 
         $headers = [
             'Content-Type' => 'application/json',
-            'X-Auth-Token' => 'KHsQTQTeYwIHitt9RJrZ8tRHh13s_ideuF1CmxrD23lWk817rV9xm0BonQj0X57l'
+            'X-Auth-Token' => '7y1GNsp9Ve97PZr-GMEpv7F0W0mLRjSvFLrGVRBXeWanUtlY4GIRzRptyAr6onsd'
         ];
 
         // Send a POST request
